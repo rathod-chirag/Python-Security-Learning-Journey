@@ -1,0 +1,5 @@
+Hello, I am learning the writing mode of the file.
+This is new content, written in appending mode.
+First line
+Second line
+Third line
