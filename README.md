@@ -1,6 +1,6 @@
 # Python to Security: My Learning Journey 🚀
 
-Hi! I'm [Your Name], an IT student learning Python, Backend Development, Cybersecurity, and AI.
+Hi! I'm Chirag, an IT student learning Python, Backend Development, Cybersecurity, and AI.
 
 This repository documents my complete learning journey from Python basics to AI-powered security tools.
 
@@ -35,9 +35,9 @@ This repository documents my complete learning journey from Python basics to AI-
 - Get internship/job ready
 
 ## 📊 Progress
-- **Days of Learning**: 1
+- **Days of Learning**: 5
 - **Projects Completed**: 0
-- **Code Written**: ~100 lines
+- **Code Written**: ~500 lines
 - **Concepts Mastered**: Functions, Basic I/O
 
 ## 🛠️ Tech Stack
