@@ -1,6 +1,7 @@
 # Python to Security: My Learning Journey 🚀
 
 Hi! I'm Chirag, an IT student learning Python, Backend Development, Cybersecurity, and AI.
+My Goal : Job-ready in 6 months!
 
 This repository documents my complete learning journey from Python basics to AI-powered security tools.
 
@@ -35,13 +36,33 @@ This repository documents my complete learning journey from Python basics to AI-
 - Get internship/job ready
 
 ## 📊 Progress
-- **Days of Learning**: 5
-- **Projects Completed**: 0
-- **Code Written**: ~500 lines
-- **Concepts Mastered**: Functions, Basic I/O
+### week 1: Python Fundamentals (COMPLETE!)
+- Day 1: Function and Parameters
+- Day 2: *args & **kwargs
+- Day 3: File  Reading
+- Day 4: File Writing & Contact Book
+- Day 5: Exception Handling
+- Day 6: Password Manager Project
+
+## Project list:
+## 📁 Major Projects
+
+### 🔐 Password Manager
+Complete password management system with generation, search, delete features.
+[View Code](./day6_password_manager.py)
+
+### 📞 Contact Book
+Full CRUD contact manager with file storage.
+[View Code](./day4_exercises.py)
+
+### 🧮 Safe Calculator
+Calculator with complete error handling.
+[View Code](./day5_exercises.py)
+
 
 ## 🛠️ Tech Stack
 - Python 3.x
+- Git & Github
 - FastAPI (soon)
 - SQLite (soon)
 - Security Tools (coming)
