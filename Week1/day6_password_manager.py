@@ -1,3 +1,14 @@
+"""
+Day 6: Password Manager - Week 1 Capstone Project
+Date: February 20, 2026
+Describing: Complete Password Manger combining all Week 1 concepts:
+            - Functions & file handling
+            - Exception handling
+            - Menu system & innput validation
+Features: Generate, save, search, delete passwords with strength checking.
+
+"""
+
 import random
 import string
 from datetime import datetime

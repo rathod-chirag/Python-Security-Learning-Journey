@@ -1,3 +1,9 @@
+""" 
+Day 1 : Functions & Parameters - Exercise.
+Date: February 15, 2026
+Description: Built calculator and tempereture converter. 
+"""
+
 # Exercise 1: Temperature Converter
 def celcius_to_fahrenheit(celcius):
     fahrenheit = (celcius * 9/5 ) + 32

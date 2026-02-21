@@ -1,5 +1,8 @@
-# Day 5 - Learning Exception Handling 
-# Date - 19-frb-2026
+"""
+Day 5: Exception Handling - Learning Examples
+Date: February 19, 2026
+Describing: Understanding try-except blocks, error handling.
+"""
 
 print("="*40)
 print("Day 5: exception handlin.")

@@ -1,5 +1,8 @@
-# Day 1 - Learning Functions
-# Date: February 15, 2026
+""" 
+Day 1 : Functions & Parameters - Learning Examples.
+Date: February 15, 2026
+Description: Learning Function basics, Parameters, return values.  
+"""
 
 # Example 1: Simple function
 def say_hello():

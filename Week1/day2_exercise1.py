@@ -1,3 +1,10 @@
+"""
+Day 2: *args & **kwargs - Shopping Cart.
+Date: February 16, 2026
+Describing: Learninng to flexible functions parameters.
+            Built Shopping Cart.
+"""
+
 # Exerices 1 Shoping Cart.
 
 def add_to_cart(*items):

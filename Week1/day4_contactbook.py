@@ -1,3 +1,9 @@
+"""
+Day 4: File Writing - Contact Book.
+Date: February 18, 2026
+Describing: Built complete contact management system.
+"""
+
 # Exercise 2 : Contact Book
 
 # 1. Add contact.

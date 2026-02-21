@@ -1,3 +1,9 @@
+"""
+Day 3: File Handling - Reading the files.
+Date: February 17, 2026
+Describing: Learninng to  read files.
+"""
+
 # Exercise 2 : Numbers File.
 # 1. read numbers.
 def read_num(f):

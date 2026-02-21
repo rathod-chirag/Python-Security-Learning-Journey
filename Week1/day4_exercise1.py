@@ -1,3 +1,9 @@
+"""
+Day 4: File Writing - Exercises.
+Date: February 18, 2026
+Describing: Learning to write files, CRUD operations.
+"""
+
 # Exercise 1: Simple Logger.
 
 from datetime import datetime

@@ -1,6 +1,8 @@
-# Day 4 - Learning File writing.
-# Date: 18-feb-2026
-
+"""
+Day 4: File Writing - File Writing.
+Date: February 18, 2026
+Describing: Learning the file writing.
+"""
 # 1. Writing the  data in a file using the 'w' mode.
 with open('output.txt','w') as file:
     file.write("Hello, I am learning the writing mode of the file.\n")

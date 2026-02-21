@@ -1,3 +1,9 @@
+"""
+Day 3: File Handling - Student data parser.
+Date: February 17, 2026
+Describing: Built Student data parser.
+"""
+
 # Exercise 3 : Student data.
 # 1. read student data.
 def read_student_data(f):

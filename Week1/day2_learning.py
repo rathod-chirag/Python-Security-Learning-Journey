@@ -1,3 +1,9 @@
+"""
+Day 2: *args & **kwargs - Learning Examples.
+Date: February 16, 2026
+Describing: Learninng to  *args & **kwargs.
+"""
+
 # *args 
 
 def add_all(*numbers):

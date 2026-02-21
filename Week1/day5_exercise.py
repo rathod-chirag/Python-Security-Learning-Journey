@@ -1,4 +1,8 @@
-# Day 5 Exercise:
+"""
+Day 5: Exception Handling - Exercises.
+Date: February 19, 2026
+Describing: Built Safe Calculator and file handler with error handling.
+"""
 
 # Exercise 1 - Safe Calculator.
 

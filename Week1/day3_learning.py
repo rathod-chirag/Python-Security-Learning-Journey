@@ -1,3 +1,9 @@
+"""
+Day 3: File Handling - Learning Examples.
+Date: February 17, 2026
+Describing: Learninng to  read files.
+"""
+
 # File I/O in python.
 
 # Methods of opining a file in different formate.

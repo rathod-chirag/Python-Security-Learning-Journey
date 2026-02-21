@@ -1,3 +1,9 @@
+"""
+Day 3: File Handling - File Statistics
+Date: February 17, 2026
+Describing: built a program for file statistics.
+"""
+
 # Exercise 1 : File Statistics
 
 # 1. count lines

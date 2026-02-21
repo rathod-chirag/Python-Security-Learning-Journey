@@ -1,3 +1,10 @@
+"""
+Day 2: *args & **kwargs - Student Report.
+Date: February 16, 2026
+Describing: Learninng to flexible functions parameters.
+            Built Student Report System.
+"""
+
 # Exercise 2 : Student Report.
 
 def total_mark(list):
