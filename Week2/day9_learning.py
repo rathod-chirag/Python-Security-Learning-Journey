@@ -108,3 +108,39 @@ print(f"Margherita price: ${pizza2.get_price()}")
 print(f"Is 'xlarge' valid? {Pizza.is_valid_size('xlarge')}")
 print(f"Is 'medium' valid? {Pizza.is_valid_size('medium')}")
 
+# Example 4: Modifying class attributes.
+
+print("\n" + "="*50)
+print("EXAMPLE 4: Modifying class attributes.")
+print("="*50)
+
+class BankAccount:
+
+    interest_rate = 0.02
+
+    def __init__(self,owner,balance):
+        self.owner = owner
+        self.balance = balance
+        
+    def add_interest(self):
+
+        interest = self.balance * self.interest_rate
+        self.balance += interest
+        return interest
+    
+acc1 = BankAccount("Alen",2000)
+acc2 = BankAccount("Bob",1000)
+
+print(f"Initial interest rate: {BankAccount.interest_rate}")
+
+# Adding interest 
+print(f"Alen earned: ${acc1.add_interest():.2f}")
+print(f"Bob earned: ${acc2.add_interest():.2f}")
+
+# Changing the class attribute
+
+BankAccount.interest_rate = 0.03
+
+print(f"New interest rate: {BankAccount.interest_rate}")
+print(f"Alen earned: ${acc1.add_interest():.2f}")
+print(f"Bob earned: ${acc2.add_interest():.2f}")
